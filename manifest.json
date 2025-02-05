@@ -1,0 +1,22 @@
+
+{
+    "manifest_version": 2,
+    "name": "BPUP Messanger",
+    "version": "v0.0.1-pre-alpha",
+    "description": "Estensione ufficiale per BPUP Messanger",
+    "permissions": [],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/icons/bpup_logo-16.png",
+        "48": "assets/icons/bpup_logo-48.png",
+        "128": "assets/icons/bpup_logo-128.png"
+      }
+    },
+    "icons": {
+      "16": "assets/icons/bpup_logo-16.png",
+      "48": "assets/icons/bpup_logo-48.png",
+      "128": "assets/icons/bpup_logo-128.png"
+    }
+  }
+  
