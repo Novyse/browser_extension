@@ -8,15 +8,15 @@
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "assets/icons/bpup_logo-16.png",
-        "48": "assets/icons/bpup_logo-48.png",
-        "128": "assets/icons/bpup_logo-128.png"
+        "16": "assets/icons/logo-16.ico",
+        "48": "assets/icons/logo-48.ico",
+        "128": "assets/icons/logo-128.ico"
       }
     },
     "icons": {
-      "16": "assets/icons/bpup_logo-16.png",
-      "48": "assets/icons/bpup_logo-48.png",
-      "128": "assets/icons/bpup_logo-128.png"
+      "16": "assets/icons/logo-16.ico",
+      "48": "assets/icons/logo-48.ico",
+      "128": "assets/icons/logo-128.ico"
     }
   }
   
