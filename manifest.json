@@ -1,9 +1,9 @@
 
 {
     "manifest_version": 2,
-    "name": "BPUP Messanger",
+    "name": "Novyse",
     "version": "0.0.1",
-    "description": "Estensione ufficiale per BPUP Messanger",
+    "description": "A messaging app",
     "permissions": [],
     "browser_action": {
       "default_popup": "popup.html",
