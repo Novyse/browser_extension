@@ -1,22 +1,19 @@
-
 {
-    "manifest_version": 2,
-    "name": "Novyse",
-    "version": "0.0.1",
-    "description": "A messaging app",
-    "permissions": [],
-    "browser_action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "16": "assets/icons/logo-16.ico",
-        "48": "assets/icons/logo-48.ico",
-        "128": "assets/icons/logo-128.ico"
-      }
-    },
-    "icons": {
+  "manifest_version": 3,
+  "name": "Novyse",
+  "version": "0.0.1",
+  "description": "A messaging app",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
       "16": "assets/icons/logo-16.ico",
       "48": "assets/icons/logo-48.ico",
       "128": "assets/icons/logo-128.ico"
     }
+  },
+  "icons": {
+    "16": "assets/icons/logo-16.ico",
+    "48": "assets/icons/logo-48.ico",
+    "128": "assets/icons/logo-128.ico"
   }
-  
+}
